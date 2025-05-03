@@ -12,7 +12,7 @@ const Footer = () => {
 
           <div className="flex space-x-6">
             <a
-              href="#"
+              href="www.github.com/Ahsan-Burki2126"
               className="text-gray-300 hover:text-white transition-colors"
             >
               <span className="sr-only">GitHub</span>
@@ -44,7 +44,7 @@ const Footer = () => {
               </svg>
             </a>
             <a
-              href="#"
+              href="www.instagram.com/burki2126"
               className="text-gray-300 hover:text-white transition-colors"
             >
               <span className="sr-only">Instagram</span>

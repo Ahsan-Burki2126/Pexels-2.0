@@ -6,7 +6,7 @@ import FavoritesModal from "./components/FavoritesModal";
 
 function App() {
   const [images, setImages] = useState([]);
-  const [query, setQuery] = useState("nature");
+  const [query, setQuery] = useState("coding");
   const [isLoading, setIsLoading] = useState(true);
   const [favorites, setFavorites] = useState([]);
   const [showFavorites, setShowFavorites] = useState(false);
